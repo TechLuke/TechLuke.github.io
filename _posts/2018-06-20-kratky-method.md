@@ -103,7 +103,7 @@ It is time to add the plants. Kratky works best for leafy greens like lettuce an
 
 My trick is to soak the soil clump in water for about 15 minutes and then spray the roots with the hose to break up the soil.
 
-![Root Spray](/assets/rootSpray.gif)
+![Root Spray](http://techwriterluke.com/img/rootSpray.gif)
 
 Don't worry, your plant is stronger than you think. This has never hurt any of my plants, root shock generally only happens if you are tearing the roots apart. Remove as much of the soil as possible, you want to keep the water in the bucket as clean as possible (some dirt is inevitable). 
 
