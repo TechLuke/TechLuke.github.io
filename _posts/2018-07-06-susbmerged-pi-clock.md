@@ -4,7 +4,7 @@ category: DIY Tech
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-![PiClock](/assets/PiClock1.jpg)
+![Submerged PiClock](/assets/submergedPi.jpg)
 
 I stumbled on submerged PCs one day and thought they were super cool. The idea is to cool overclocked gaming rigs to improve performance. I personally don't do much gaming outside of my Nintendo switch. Submerging electronics in a liquid was just too neat to not experiment with, so I started brainstorming ideas.
 
@@ -23,10 +23,6 @@ Kevin Uhlir's github project [*PiClock*](https://github.com/n0bel/PiClock) was p
 Mineral oil is non conductive and disperses heat much faster than air. Electronics can be submerged in the oil without any interference to the components. The oil is clear and looks like water, which just looks cool. 
 
 ## The Submerged PiClock
-
-I did not document the build process for my proof of concept, but here is the final build.
-
-![Submerged PiClock](/assets/submergedPi.jpg)
 
 I used a small Beta fish aquarium for the tank since it was small enough to fit on my desk. In my next iteration of the submerged PiClock I am building my own tank out of plexiglass, and I am documenting the whole build so others can follow along and build one themselves.
 
