@@ -4,6 +4,8 @@ category: DIY Tech
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
+![PiClock](/assets/PiClock1.jpg)
+
 I stumbled on submerged PCs one day and thought they were super cool. The idea is to cool overclocked gaming rigs to improve performance. I personally don't do much gaming outside of my Nintendo switch. Submerging electronics in a liquid was just too neat to not experiment with, so I started brainstorming ideas.
 
 ## Concept
